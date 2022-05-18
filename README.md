@@ -29,9 +29,8 @@ To test the pose model, run test.sh with the link to the weights file.
 
 ## Results
 
-![alt text](https://github.com/[kbalak18]/[BTranspose]/[figs]/Table1.png?raw=true)
-![alt text](https://github.com/[kbalak18]/[BTranspose]/[figs]/Table2.png?raw=true)
+<img src="figs/Table1.png">
+<img src="figs/Table2.png">
 
-![alt text](https://github.com/[kbalak18]/[BTranspose]/[figs]/dependency_areas.png.png?raw=true)
-![alt text](https://github.com/[kbalak18]/[BTranspose]/[figs]/dependency_areas2.png.png?raw=true)
-
+<img src="figs/dependency_areas.png">
+<img src="figs/dependency_areas2.png">
