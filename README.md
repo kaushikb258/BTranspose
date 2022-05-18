@@ -29,8 +29,8 @@ To test the pose model, run test.sh with the link to the weights file.
 
 ## Results
 
-<img src="figs/Table1.png" width=200>
-<img src="figs/Table2.png width=200> 
+<img src="figs/Table1.png">
+<img src="figs/Table2.png">
           
 <p float="left">
   <img src="figs/horserider.png" width=400 />
