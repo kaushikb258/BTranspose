@@ -7,7 +7,7 @@ PyTorch training code For BTranspose. This repo is built on top of Transpose (ht
 
 We consider different architectures for the backbone: C3A1(4), C3A1(8), C2A2(4), C2A1(4), etc. See the BTranspose paper for more details.
 
-The C3A1 architecture is shown here.
+The C3A1 architecture is shown here with 3 CNN layer groups and 1 bottleneck layer group.
 
 <img src="figs/BTranspose_architecture.png">
 
