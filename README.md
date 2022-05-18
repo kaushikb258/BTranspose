@@ -29,18 +29,10 @@ To test the pose model, run test.sh with the link to the weights file.
 
 ## Results
 
-<img src="figs/Table1.png">
-<img src="figs/Table2.png">
-
-<div class="row">
-  <div class="column">
-    <img src="horserider.png">
-  </div>
-  <div class="column">
-    <img src="surfer.png">
-  </div>
-</div>
-
+<p float="left">
+  <img src="figs/horserider.png" width=400 />
+  <img src="figs/surfer.png width=400 /> 
+</p>
 
 <img src="figs/horserider.png" width=400>
 <img src="figs/surfer.png" width=400>
