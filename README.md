@@ -33,10 +33,5 @@ To test the pose model, run test.sh with the link to the weights file.
 <img src="figs/Table2.png">
    
 <img src="figs/horserider.png" width="400"/> <img src="figs/surfer.png" width="400"/> 
-   
-<p float="left">
-  <img src="figs/horserider.png" width=400 />
-  <img src="figs/surfer.png width=400 /> 
-</p>
-
+  
 <img src="figs/dependency_areas2.png" width=500>
