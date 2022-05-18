@@ -9,7 +9,7 @@ We consider different architectures for the backbone: C3A1(4), C3A1(8), C2A2(4),
 
 The C3A1 architecture is shown here.
 
-![ScreenShot](https://github.com/[kbalak18]/[BTranspose]/[figs]/BTranspose_architecture.png)
+<img src="figs/BTranspose_architecture.png">
 
 ## Training
 
