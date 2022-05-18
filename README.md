@@ -29,8 +29,8 @@ To test the pose model, run test.sh with the link to the weights file.
 
 ## Results
 
-<img src="figs/Table1.png" width="400", height="400">
+<img src="figs/Table1.png">
 <img src="figs/Table2.png">
 
-<img src="figs/dependency_areas.png">
+<img src="figs/dependency_areas.png"  width=400 height=400>
 <img src="figs/dependency_areas2.png">
