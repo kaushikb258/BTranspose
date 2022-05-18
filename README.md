@@ -34,10 +34,10 @@ To test the pose model, run test.sh with the link to the weights file.
 
 <div class="row">
   <div class="column">
-    <img src="horserider.png" alt="Snow" style="width:100%">
+    <img src="horserider.png">
   </div>
   <div class="column">
-    <img src="surfer.png" alt="Forest" style="width:100%">
+    <img src="surfer.png">
   </div>
 </div>
 
